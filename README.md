@@ -1,11 +1,11 @@
-# Tabla Clientes
-
-![image](https://github.com/user-attachments/assets/988fdaed-9996-4d74-8271-3057fdf1ebae)
-
-
 # Tabla Categoría
 
 ![image](https://github.com/user-attachments/assets/268fa549-df0f-4058-805b-b57636310d5e)
+
+
+# Tabla Clientes
+
+![image](https://github.com/user-attachments/assets/988fdaed-9996-4d74-8271-3057fdf1ebae)
 
 
 # Tabla Prodcutos
